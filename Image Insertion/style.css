@@ -1,0 +1,20 @@
+td{
+    border: 2px solid black;
+    padding: 3px;
+    background-color: rgb(115, 128, 214);
+}
+caption{
+    border: 2px solid blue;
+    background-color: lightblue;
+}
+ol{
+    border: 2px solid red;
+        background-color: lightblue;
+}
+ul{
+    border: 2px solid red;
+        background-color: lightblue;
+}
+body{
+    background-color: lightskyblue;
+}
